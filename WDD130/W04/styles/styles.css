@@ -7,3 +7,13 @@ main h1, a, nav, p {
     /* border: 2px solid blue; */
     text-align: center;
 }
+main p {
+    width: 80%;
+    margin: 50px auto;
+    text-align: center;
+}
+footer {
+    background-color: steelblue;
+    color: white;
+    text-align: center;
+}
