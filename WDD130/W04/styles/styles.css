@@ -8,7 +8,7 @@ main h1, a, nav, p {
     text-align: center;
 }
 
-footer {
+footer p {
     background-color: steelblue;
     color: white;
     text-align: center;
