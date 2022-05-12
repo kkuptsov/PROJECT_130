@@ -3,7 +3,5 @@ img {
 }
 h1, a, nav { 
     border: 2px solid blue;
-}
-h1, nav {
     text-align: center;
 }
