@@ -1,4 +1,16 @@
+/* Examle one */
 nav, footer {
     background-color: steelblue;
     color: white;
 }
+/* Example two */
+footer p {
+    font-size: 20px;
+    margin: 20px auto;
+}
+
+/* Example three */
+
+a:hover {
+    background-color: white;
+    color: steelblue;
