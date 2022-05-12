@@ -1,5 +1,7 @@
 img {
+    display: block;
     width: 80%;
+    margin: 0 auto;
 }
 h1, a, nav { 
     border: 2px solid blue;
