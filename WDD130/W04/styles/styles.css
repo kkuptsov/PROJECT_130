@@ -3,7 +3,7 @@ img {
     width: 80%;
     margin: 0 auto;
 }
-h1, a, nav, p { 
+main h1, a, nav, p { 
     /* border: 2px solid blue; */
     text-align: center;
 }
