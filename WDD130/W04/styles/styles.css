@@ -1,6 +1,6 @@
 img {
     width: 80%;
 }
-* {
+h1, a, nav { 
     border: 2px solid blue;
 }
