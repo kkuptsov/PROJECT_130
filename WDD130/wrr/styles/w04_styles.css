@@ -64,17 +64,17 @@ nav a:hover {
 }
 
 .join:hover {
-    background-color: aliceblue;
+    background-color: blue;
 }
 
 #background {
-    background-color: aliceblue;
+    background-color: blueviolet;
 }
 
 .msg {
-    background-color: aliceblue;
+    background-color: yellowgreen;
 }
 
 footer {
-    background-color: aliceblue;
+    background-color: goldenrod;
 }
