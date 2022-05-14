@@ -5,3 +5,7 @@
     margin-right: auto;
     text-align: center;
 }
+/* работает ли этот файл вообще? */
+#test {
+    color: aquamarine;
+}
