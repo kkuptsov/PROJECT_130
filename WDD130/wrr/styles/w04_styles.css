@@ -106,3 +106,7 @@ footer h3 {
     color: red;
 }
 
+footer a:hover {
+    color: green;
+}
+
