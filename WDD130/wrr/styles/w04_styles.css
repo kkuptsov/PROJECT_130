@@ -45,10 +45,12 @@ header {
 
 nav {
     background-color: #18a60e;
+    color: black;
 }
 
 nav a:hover {
     background-color:  whitesmoke;
+    color: black;
 }
 
 .book {
@@ -78,3 +80,8 @@ nav a:hover {
 footer {
     background-color: goldenrod;
 }
+
+.home-title {
+    color: black;
+}
+
