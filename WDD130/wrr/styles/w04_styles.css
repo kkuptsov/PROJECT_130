@@ -11,15 +11,15 @@
     margin-right: auto;
     text-align: center;
 }
-nav a {
+nav.a {
     text-align: center;
 }
 
-#hero-msg h1 {
+#hero-msg.h1 {
     text-align: center;    
 }
 
-#hero-msg h4 {
+#hero-msg.h4 {
     text-align: center;
 }
 
@@ -27,12 +27,11 @@ nav a {
     text-align: center;
 }
 
-main {
+main.section {
     text-align: center;
 }
 
-section {
-    text-align: center;
+#div_background {
+    height: 725px;
 }
-
 
