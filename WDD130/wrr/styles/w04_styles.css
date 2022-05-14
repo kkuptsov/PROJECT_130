@@ -33,6 +33,7 @@ main.section {
 
 #div_background {
     height: 725px;
+    background-color: yellow;
 }
 
 body {
