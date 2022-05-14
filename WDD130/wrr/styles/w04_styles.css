@@ -35,3 +35,42 @@ main.section {
     height: 725px;
 }
 
+body {
+    background-color: aliceblue;
+}
+
+header {
+    background-color: aliceblue ;
+}
+
+nav a:hover {
+    background-color: aliceblue;
+}
+
+.book {
+    background-color: aliceblue;
+}
+
+.join {
+    background-color: aliceblue;
+}
+
+.book:hover {
+  background-color: aliceblue;  
+}
+
+.join:hover {
+    background-color: aliceblue;
+}
+
+#background {
+    background-color: aliceblue;
+}
+
+.msg {
+    background-color: aliceblue;
+}
+
+footer {
+    background-color: aliceblue;
+}
