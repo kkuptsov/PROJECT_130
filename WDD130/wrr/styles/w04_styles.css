@@ -36,30 +36,31 @@ main.section {
 }
 
 body {
-    background-color: aliceblue;
+    background-color: #e3f2fd;
 }
 
 header {
-    background-color: aliceblue ;
+    background-color: #d1beb0;
 }
+
 nav {
     background-color: #18a60e;
 }
 
 nav a:hover {
-    background-color:  #051f31;
+    background-color:  whitesmoke;
 }
 
 .book {
-    background-color: aliceblue;
+    background-color: greenyellow;
 }
 
 .join {
-    background-color: aliceblue;
+    background-color: red;
 }
 
 .book:hover {
-  background-color:;  
+  background-color: grey;  
 }
 
 .join:hover {
