@@ -14,6 +14,7 @@
 
 nav a {
     text-align: left;
+    padding: 35px;
 }
 
 #hero-msg.h1 {
@@ -41,6 +42,12 @@ body {
     font-family: 'Lato', sans-serif;
     font-size: 22px;
     background-color: #e3f2fd;
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    margin: 0;
 }
 
 header {
@@ -61,12 +68,14 @@ nav a:hover {
 .book {
     background-color: greenyellow;
     font-size: 18px;
+    padding: 15px 30px;
     color: black;
 }
 
 .join {
     background-color: red;
     font-size: 18px;
+    padding: 15 30px;
     color: white;
 }
 
@@ -87,12 +96,14 @@ nav a:hover {
 
 .msg {
     background-color: yellowgreen;
+    padding: 35px;
     line-height: 1.5em;
 
 }
 
 footer {
     background-color: goldenrod;
+    padding: 25px 50px;
 }
 
 .home-title {
@@ -105,6 +116,8 @@ h4 {
     color: fuchsia
 }
 
+
+
 .msg h2 {
     font-family: "Roboto Serif", Verdana;
     color: sienna;
@@ -112,6 +125,7 @@ h4 {
 
 .msg p {
     font-size: 0.8em;
+    padding-bottom: 15px;
     color: maroon;
 }
 
@@ -125,6 +139,7 @@ footer a:hover {
 
 .icon {
     width: 80px;
+    padding-top: 10px;
 }
 
 #hero-img {
@@ -133,4 +148,13 @@ footer a:hover {
 
 .logo {
     width: 80px;
+}
+#logo_link {
+    padding-top: 5px;
+}
+.social {
+    padding-top: 15px;
+}
+.social img {
+    padding-top: 15px;
 }
