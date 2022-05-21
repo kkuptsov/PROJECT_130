@@ -39,6 +39,7 @@ main.section {
 
 body {
     font-family: 'Lato', sans-serif;
+    font-size: 22px;
     background-color: #e3f2fd;
 }
 
@@ -59,11 +60,13 @@ nav a:hover {
 
 .book {
     background-color: greenyellow;
+    font-size: 18px;
     color: black;
 }
 
 .join {
     background-color: red;
+    font-size: 18px;
     color: white;
 }
 
@@ -84,6 +87,7 @@ nav a:hover {
 
 .msg {
     background-color: yellowgreen;
+    line-height: 1.5em;
 
 }
 
@@ -92,6 +96,8 @@ footer {
 }
 
 .home-title {
+    font-family: "Roboto Serif", Verdana;
+    font-size: 2em;
     color: orange;
 }
 
@@ -100,10 +106,12 @@ h4 {
 }
 
 .msg h2 {
+    font-family: "Roboto Serif", Verdana;
     color: sienna;
 }
 
 .msg p {
+    font-size: .8em;
     color: maroon;
 }
 
