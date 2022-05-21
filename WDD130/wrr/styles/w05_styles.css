@@ -69,6 +69,8 @@ nav a:hover {
     background-color: greenyellow;
     font-size: 18px;
     padding: 15px 30px;
+    margin-top: 50px;
+    border-radius: 5px;
     color: black;
 }
 
@@ -76,6 +78,8 @@ nav a:hover {
     background-color: red;
     font-size: 18px;
     padding: 15 30px;
+    margin-top: 50px;
+    border-radius: 5px;
     color: white;
 }
 
@@ -104,11 +108,13 @@ nav a:hover {
 footer {
     background-color: goldenrod;
     padding: 25px 50px;
+    margin-top: 200px;
 }
 
 .home-title {
     font-family: "Roboto Serif", Verdana;
     font-size: 2em;
+    margin-top: 10px;
     color: orange;
 }
 
@@ -149,12 +155,31 @@ footer a:hover {
 .logo {
     width: 80px;
 }
+
 #logo_link {
     padding-top: 5px;
 }
+
 .social {
     padding-top: 15px;
 }
+
 .social img {
     padding-top: 15px;
+}
+
+.rivers-card {
+    margin: 200px 0;
+}
+
+.camping-card {
+    margin: 200px 0;
+}
+
+.rapids-card {
+    margin: 200px 0;
+}
+
+.card-img {
+    border: 10px solid yellowgreen;
 }
