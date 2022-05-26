@@ -1,0 +1,27 @@
+#general {
+    width: 725px;
+}
+
+#grey_block {
+    width: 725px;
+    background-color: grey;
+    text-align: center;
+
+
+
+}
+
+.img {
+    display: inline-block;
+    width: 200px;
+    border: 20px greenyellow;
+    border-radius: 50%;
+    padding: 10px;
+
+
+}
+
+.img2 {
+    width: 60%;
+
+}
