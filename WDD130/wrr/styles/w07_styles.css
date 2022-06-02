@@ -216,7 +216,7 @@ footer a:hover {
     grid-row: 2/3;
 }
 
-.rapids-card {
+.rapids-cards {
     margin: 200px 0;
     grid-column: 8/10;
     grid-row: 2/3;
