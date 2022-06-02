@@ -41,6 +41,8 @@ main section img {
 #div_background {
     height: 725px;
     background-color: yellow;
+    grid-column: 1/11;
+    grid-row: 4/9;
 }
 
 body {
@@ -142,6 +144,8 @@ h4 {
     font-size: 0.8em;
     padding-bottom: 15px;
     color: maroon;
+    grid-column: 6/10;
+    grid-row: 6/7;
 }
 
 footer h3 {
@@ -200,16 +204,33 @@ footer a:hover {
 
 .rivers-card {
     margin: 200px 0;
+    grid-column: 2/4;
+    grid-row: 2/3;
 }
 
 .camping-card {
+    grid-column: 5/7;
+    grid-row: 2/3;
     margin: 200px 0;
 }
 
 .rapids-card {
+    grid-column: 8/10;
+    grid-row: 2/3;
     margin: 200px 0;
 }
 
 .card-img {
+    width: 100%;
     border: 10px solid yellowgreen;
+}
+.mountains {
+    width: 100%;
+    grid-column: 2/7;
+    grid-row: 5/8;
+}
+
+.home-grid {
+    display: grid;
+    grid-template-columns: 10fr;
 }
