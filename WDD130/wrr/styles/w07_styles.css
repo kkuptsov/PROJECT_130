@@ -55,11 +55,15 @@ h2 {
 }
 
 header {
+    display: grid;
+    grid-template-columns: 150px auto;
     font-family: "Open Sans", Tahoma;
     background-color: #d1beb0;
 }
 
 nav {
+    display: flex;
+    justify-content: space-around;
     background-color: #18a60e;
     color: black;
 }
@@ -162,6 +166,8 @@ footer a:hover {
 
 #logo_link {
     padding-top: 5px;
+    justify-self: center;
+    align-self: center;
 }
 
 .social {
