@@ -1,0 +1,189 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Serif:opsz,wght@8..144,100&display=swap');
+
+/* assignment */
+#content {
+    max-width: 1600px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+nav a {
+    text-align: left;
+    padding: 35px;
+}
+
+#hero-msg.h1 {
+    text-align: center;
+}
+
+#hero-msg.h4 {
+    text-align: center;
+}
+
+.button-box {
+    text-align: center;
+}
+
+main.section {
+    text-align: center;
+}
+
+main section img {
+    box-sizing: border-box;
+}
+
+#div_background {
+    height: 725px;
+    background-color: yellow;
+}
+
+body {
+    font-family: 'Lato', sans-serif;
+    font-size: 22px;
+    background-color: #e3f2fd;
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    margin: 0;
+}
+
+header {
+    font-family: "Open Sans", Tahoma;
+    background-color: #d1beb0;
+}
+
+nav {
+    background-color: #18a60e;
+    color: black;
+}
+
+nav a:hover {
+    background-color: whitesmoke;
+    color: black;
+}
+
+.book {
+    background-color: greenyellow;
+    font-size: 18px;
+    padding: 15px 30px;
+    margin-top: 50px;
+    border-radius: 5px;
+    color: black;
+}
+
+.join {
+    background-color: red;
+    font-size: 18px;
+    padding: 15 30px;
+    margin-top: 50px;
+    border-radius: 5px;
+    color: white;
+}
+
+.book:hover {
+    background-color: grey;
+    color: gainsboro;
+}
+
+.join:hover {
+    background-color: whitesmoke;
+    color: black;
+}
+
+#div_background {
+    height: 725px;
+    background-color: blueviolet;
+}
+
+.msg {
+    background-color: #d1beb0;
+    padding: 35px;
+    line-height: 1.5em;
+
+}
+
+footer {
+    background-color: #d1beb0;
+    padding: 25px 50px;
+    margin-top: 200px;
+}
+
+.home-title {
+    font-family: "Roboto Serif", Verdana;
+    font-size: 2em;
+    margin-top: 10px;
+    color: orange;
+}
+
+h4 {
+    color: fuchsia
+}
+
+
+
+.msg h2 {
+    font-family: "Roboto Serif", Verdana;
+    color: sienna;
+}
+
+.msg p {
+    font-size: 0.8em;
+    padding-bottom: 15px;
+    color: maroon;
+}
+
+footer h3 {
+    color: red;
+}
+
+footer a:hover {
+    color: green;
+}
+
+.icon {
+    width: 80px;
+    padding-top: 10px;
+}
+
+#hero-img {
+    width: 100%;
+}
+
+.logo {
+    width: 80px;
+}
+
+#logo_link {
+    padding-top: 5px;
+}
+
+.social {
+    padding-top: 15px;
+}
+
+.social img {
+    padding-top: 15px;
+}
+
+.rivers-card {
+    margin: 200px 0;
+}
+
+.camping-card {
+    margin: 200px 0;
+}
+
+.rapids-card {
+    margin: 200px 0;
+}
+
+.card-img {
+    border: 10px solid yellowgreen;
+}
