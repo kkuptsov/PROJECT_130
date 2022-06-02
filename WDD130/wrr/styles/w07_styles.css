@@ -27,6 +27,7 @@ nav a {
 
 .button-box {
     text-align: center;
+   /* color: white; */
 }
 
 main.section {
@@ -156,8 +157,22 @@ footer a:hover {
     padding-top: 10px;
 }
 
+#hero {
+    display: grid;
+    grid-template-columns: 1fr 3fr 1fr;
+}
+
+#hero-box {
+    grid-column: 1/4;
+    grid-row: 1/3;
+}
 #hero-img {
     width: 100%;
+}
+
+#hero-msg {
+  grid-column: 2/3;
+  grid-row: 1/2;  
 }
 
 .logo {
